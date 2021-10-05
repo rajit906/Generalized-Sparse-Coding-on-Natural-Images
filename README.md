@@ -69,8 +69,7 @@ Your project should have some deliverable (e.g. PDF, PPT, data). These should be
 
 ## Sources
 
-Lantz, Brett. _Machine Learning for R_. Packt, 2013. [https://edu.kpfu.ru/pluginfile.php/278552/mod_resource/content/1/MachineLearningR__Brett_Lantz.pdf](https://edu.kpfu.ru/pluginfile.php/278552/mod_resource/content/1/MachineLearningR__Brett_Lantz.pdf).
+Xing, Xin et al. Arxiv, 2021. [https://arxiv.org/pdf/2108.09888.pdf](https://arxiv.org/pdf/2108.09888.pdf).
 
-Medical Cost Personal Datasets. Kaggle. 2019. [https://www.kaggle.com/mirichoi0218/insurance](https://www.kaggle.com/mirichoi0218/insurance).
+Olshausen, B. A., & Field, D. J. (1996). Emergence of simple-cell receptive field properties by learning a sparse code for natural images. Nature, 381(6583), 607–609. [https://doi.org/10.1038/381607a0](https://doi.org/10.1038/381607a0).
 
-Pyles, Chris. Insurance Data. Github. 12 March 2019. [https://github.com/chrispyles/jupyter/blob/master/content/notebooks/insurance/insurance.ipynb](https://github.com/chrispyles/jupyter/blob/master/content/notebooks/insurance/insurance.ipynb).
