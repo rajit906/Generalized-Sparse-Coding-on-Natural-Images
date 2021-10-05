@@ -1,6 +1,6 @@
 #  Generalized Sparse Coding on Natural Images
 
-_Rajit Rajpal, [other team members]_
+_Rajit Rajpal, Daniel Abraham_
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ls88-openscienceconnector/final-project/master)
 
